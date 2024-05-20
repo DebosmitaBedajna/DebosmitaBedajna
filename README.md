@@ -10,7 +10,7 @@
 ```python
 Name = "Debosmita Bedajna"
 Interests = ["Coding", "Painting", "Reading books", "Dancing", "Graphic Designing"]
-Languages = ["C", "Java", "Python", "HTML", "CSS", "Js", "Kotlin"]
+Languages = ["C", "Java", "C++", "Python", "HTML", "CSS", "Js", "Kotlin", "MySQL"]
 ```
 
 
